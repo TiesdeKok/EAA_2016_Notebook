@@ -16,7 +16,6 @@ There are several things to note:
 
 - You can run the Jupyter Server on your own computer and connect to it locally in your browser (you can do this even without internet). However, it is also possible to run the Jupyter Server on a different computer, for example a high performance computation server in the cloud, and connect to it over the internet. For the Jupyter Notebook itself you only need a modern web-browser like Chrome or Firefox.
 - The Jupyter Server requires the Python language to work and the Python Kernel is always included by default. Other kernels, such as the R kernel, need to be added manually after the installation. 
-- You only need to install the Jupyter Server and any additional kernels, for the Jupyter Notebook itself you only need a browser. In other words, if you run the Jupyter Server in the cloud 
 
 # Installing Jupyter
 
