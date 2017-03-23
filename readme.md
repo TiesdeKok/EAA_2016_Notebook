@@ -4,7 +4,7 @@ This guide will provide instructions on getting the Jupyter Notebook up and runn
 
 The simplified diagram below illustrates how the Jupyter Notebook works:
 
-![](https://dl.dropboxusercontent.com/u/1265025/python_tut/illustration_3a.png)
+![](http://i.imgur.com/Rk1z0yF.png)
 
 There are three components: 
 
